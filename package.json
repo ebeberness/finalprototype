@@ -1,0 +1,26 @@
+{
+  "name": "finalprototype-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fpPrototype.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebeberness/finalprototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebeberness/finalprototype/issues"
+  },
+  "homepage": "https://github.com/ebeberness/finalprototype#readme",
+  "dependencies": {
+    "p5": "^1.6.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  }
+}
